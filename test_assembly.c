@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//ena sxolio
 int main(){
 
 	int x, y;
